@@ -7,8 +7,7 @@ Spam pairing code WhatsApp tiap 1–2 detik, auto-stop & simpan ke `codes.txt`.
  pkg install nodejs git -y
  git clone https://github.com/g4nggaa/pair-spam
  cd pair-spam
- npm install
- node index.js
+ nano index.js
 ```
  
 ## Konfigurasi
