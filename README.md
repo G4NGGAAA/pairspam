@@ -3,12 +3,14 @@
 Spam pairing code WhatsApp tiap 1–2 detik, auto-stop & simpan ke `codes.txt`.
 
 ## Instal (Termux)
-- pkg install nodejs git -y
-- git clone https://github.com/g4nggaa/pair-spam
-- cd pair-spam
-- npm install
-- node index.js
-  
+```shell
+ pkg install nodejs git -y
+ git clone https://github.com/g4nggaa/pair-spam
+ cd pair-spam
+ npm install
+ node index.js
+```
+ 
 ## Konfigurasi
 
 - Ubah nomor WA di `PHONE` (E.164 tanpa +).
